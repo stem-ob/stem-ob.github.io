@@ -1,4 +1,4 @@
-# Stem-Ob: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion
+# Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion
 
 ## Website License
 Templated borrowed from <a href="https://github.com/nerfies/nerfies.github.io">NeRFies</a>  
